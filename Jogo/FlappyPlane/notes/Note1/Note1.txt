@@ -1,0 +1,61 @@
+ 1 - Player
+	1.1 - Importando as sprites do avião - Pronto
+	1.2 - Criar o objeto do avião, dar a sprite do avião a ele e colocar na room - pronto
+	1.3 - Assim que o jogo começar cair o player - pronto
+	1.4 - Controle de player - subindo ao apertar o espaço - pronto
+	1.5 - Simulando gravidade continua - Pronto
+	1.6 - Limitando a velocidade de Queda do avião
+	1.7 - Reiniciando ao colidir com a montanha
+	1.8 - Criar uma fumaça quando ele subir
+	1.9 - Fazendo a fumaça crescer e desaparecer 
+	1.10 - Fazendo fumaça desaparecer
+	1.11 - Reiniciar o jogo se player sair da tela
+	
+2 - Obstaculos
+	2.1 - Criar as sprites das montanhas - pronto
+	2.2 - Criar Objetos de cima - pronto
+	2.3 - Ajutar o espaço entre as montanhas - pronto
+	2.4 - movendo as motanhas para a esqueda - pronto
+	
+	
+3 - Geração procedural dos obstaculos
+	3.1 - Criando um evento pra se repetir - pronto
+	3.2 - Criando as montanhas - pronto
+	3.3 - Alterando a frequência da criação das montanhas - pronto
+	3.4 - Alterando as posição da montanhas - pronto
+	
+4 - Background
+	4.1 - Colocando backgroundo sprite - pronto
+	4.2 - Colocando animação no Background - pronto
+	4.3 - Criar chão - pronto
+
+5 - Sistema de Pontos
+	5.1 - Iniciando o sistema de pontos - pronto
+	5.2 - Ganhando pontos - pronto
+	5.2 - Exibindo Pontos - pronto
+	
+6 - Sistema de level
+	6.1 - Iniciando o sistema de level - pronto
+	6.2 - Ganhando Level - pronto
+	6.3 - Exibindo os level
+
+7 - Som
+	7.1 - Importando a musica - pronto
+	7.2 - Tocando a musica ao iniciar o jogo - pronto
+	7.3 - Tocando a som de level up ao ganhar o level
+	
+8 - Tela Icial do jogo
+	8.1 - Criando a room - pronto
+	8.2 - Criando a sprite apresentação - pronto
+	8.3 - Criando a animação da sprite - pronto
+	8.4 - Iniciando o jogo ao apertar espaço
+	
+	JOGO QUASE CONCLUIDO 
+	Agora aumentando as dificuldades de acordo com o level
+	
+
+	1 - Aumentando a dificuldade das montanhas
+	2 - Aumentando os pontos ganhos conform aumenta dificuldade
+	3 - Aumentar velocidades da geração das montanhas
+	4 - Aumentando a velocidade do background
+	
